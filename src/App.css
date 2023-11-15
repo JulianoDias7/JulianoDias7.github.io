@@ -1,0 +1,4 @@
+.text-with-shadow {
+  color: #fff;
+  text-shadow: 2px 3px 3px rgba(122, 122, 122, 1),2px 4px 4px rgba(112, 109, 113, 0.98);
+}
